@@ -1,0 +1,9 @@
+
+/* Class = "UIButton"; normalTitle = "Next"; ObjectID = "0OG-Bf-ge2"; */
+"0OG-Bf-ge2.normalTitle" = "التالي";
+
+/* Class = "UILabel"; text = "Welcome To Our App"; ObjectID = "KFh-iQ-owW"; */
+"KFh-iQ-owW.text" = "أهلا بك في تطبيقنا";
+
+/* Class = "UIButton"; normalTitle = "Change To Arabic"; ObjectID = "rBN-0z-1bh"; */
+"rBN-0z-1bh.normalTitle" = "غير الي الانجليزية";
